@@ -1,0 +1,160 @@
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.config
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\bin\Debug\Happy Cake.pdb
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csprojAssemblyReference.cache
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Form1.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Properties.Resources.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.GenerateResource.cache
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy Cake.pdb
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Abrir_Corte.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cerrar_Corte.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Historial.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Productos.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Grandes.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Medianos.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Rebanadas.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Velas.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Galletas.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cobros_Especiales.resources
+C:\Users\Antonio Piña\source\repos\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Entradas_Salidas.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.config
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Happy Cake.pdb
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csprojAssemblyReference.cache
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Abrir_Corte.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cerrar_Corte.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cobros_Especiales.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Entradas_Salidas.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Galletas.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Historial.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Productos.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Properties.Resources.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Velas.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.GenerateResource.cache
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.pdb
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\MySql.Data.dll
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Google.Protobuf.dll
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\BouncyCastle.Crypto.dll
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Ubiety.Dns.Core.dll
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Renci.SshNet.dll
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\MySql.Data.xml
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.CopyComplete
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Principal.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pasteles.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_Tamaño.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Nuevoproducto.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.configuraciones.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_emergente.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pago_combinado.resources
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.manifest
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\bin\Debug\Happy Cake.application
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe.manifest
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy Cake.application
+C:\proyectos\HappyCake (1)\HappyCake\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.verificacion.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.config
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.manifest
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Happy Cake.application
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Happy Cake.pdb
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\MySql.Data.dll
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Google.Protobuf.dll
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\Renci.SshNet.dll
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\bin\Debug\MySql.Data.xml
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csprojAssemblyReference.cache
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Abrir_Corte.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cerrar_Corte.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cobros_Especiales.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.configuraciones.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pago_combinado.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_emergente.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Entradas_Salidas.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.verificacion.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Nuevoproducto.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Principal.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Galletas.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pasteles.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Historial.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Productos.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Properties.Resources.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_Tamaño.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Velas.resources
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.GenerateResource.cache
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe.manifest
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.application
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.CopyComplete
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe
+C:\Users\Antonio Piña\Downloads\-codigo funte\Happy Cake\Happy Cake\obj\Debug\Happy Cake.pdb
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.config
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.manifest
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Happy Cake.application
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Happy Cake.pdb
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\MySql.Data.dll
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Google.Protobuf.dll
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\Renci.SshNet.dll
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\bin\Debug\MySql.Data.xml
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csprojAssemblyReference.cache
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Abrir_Corte.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cerrar_Corte.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cobros_Especiales.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.configuraciones.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pago_combinado.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_emergente.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Entradas_Salidas.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.verificacion.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Nuevoproducto.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Principal.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Galletas.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pasteles.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Historial.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Productos.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Properties.Resources.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_Tamaño.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Velas.resources
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.GenerateResource.cache
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe.manifest
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.application
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.CopyComplete
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe
+C:\Users\esteban guzman\Desktop\guzman\6.-proyectos-en-curso\happu cake version final\Happy Cake\Happy Cake\obj\Debug\Happy Cake.pdb
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.config
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe.manifest
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Happy Cake.application
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Happy Cake.exe
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Happy Cake.pdb
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\MySql.Data.dll
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Google.Protobuf.dll
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\Renci.SshNet.dll
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\bin\Debug\MySql.Data.xml
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csprojAssemblyReference.cache
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Abrir_Corte.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cerrar_Corte.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Cobros_Especiales.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.configuraciones.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pago_combinado.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_emergente.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Entradas_Salidas.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.verificacion.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Nuevoproducto.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Principal.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Galletas.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Pasteles.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Historial.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Productos.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Properties.Resources.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Ventana_Tamaño.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy_Cake.Velas.resources
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.GenerateResource.cache
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe.manifest
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.application
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.csproj.CopyComplete
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.exe
+C:\Users\esteban guzman\Desktop\guzman\7.-proyectos-finalizados\codigo\Punto de venta pasteleria\Happy Cake\Happy Cake\obj\Debug\Happy Cake.pdb
